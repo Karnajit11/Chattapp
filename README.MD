@@ -1,3 +1,3 @@
 #Project Image
 
-![](images/Chat-home.PNG)
+<img src="images/Chat-home.PNG" width="100" >
