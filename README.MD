@@ -1,3 +1,3 @@
 #Project Image
 
-<img src="images/Chat-home.PNG" width="100" >
+<img src="images/Chat-home.PNG" width="500" >
