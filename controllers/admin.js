@@ -22,7 +22,8 @@ module.exports = function(formidable, Club, aws) {
             newClub.country = req.body.country;
             newClub.image = req.body.upload;
             newClub.save((err)=>{
-                res.render('admin/dashboard');
+                res.render('admin/dashboard', { title: 'Footballkik - Create Group'});
+               
             })
         },
 
